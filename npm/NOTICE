@@ -1,0 +1,11 @@
+NXD
+Copyright 2026 Nexplora Labs
+
+The command-line tool (nxd/cli.py), the MCP server (nxd/mcp_server.py),
+the package entry file (nxd/__init__.py), the npm launcher and the public
+tests (in the public source repository) are licensed under the Apache
+License, Version 2.0 (see LICENSE).
+
+The compiled NXD core extension modules (nxd/*.so on Linux/macOS, nxd/*.pyd
+on Windows) are distributed in binary form only under the Nexplora Labs
+Proprietary License (see LICENSE-CORE).

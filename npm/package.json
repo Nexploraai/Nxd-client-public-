@@ -1,0 +1,31 @@
+{
+  "name": "@nexplora/nxd",
+  "version": "0.6.0",
+  "description": "NXD launcher: installs and runs the NXD Python package (requires Python 3.10+)",
+  "license": "Apache-2.0",
+  "author": "Nexplora Labs",
+  "bin": {
+    "nxd": "bin/nxd.js",
+    "nxd-mcp": "bin/nxd-mcp.js"
+  },
+  "files": [
+    "bin/",
+    "lib/",
+    "README.md",
+    "LICENSE",
+    "NOTICE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "encryption",
+    "secrets",
+    "mcp",
+    "ai-agents"
+  ],
+  "homepage": "https://nexplora.ai",
+  "publishConfig": {
+    "access": "public"
+  }
+}
