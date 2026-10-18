@@ -1,6 +1,6 @@
 {
   "name": "@nexplora/nxd",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "NXD launcher: installs and runs the NXD Python package (requires Python 3.10+)",
   "license": "Apache-2.0",
   "author": "Nexplora Labs",
