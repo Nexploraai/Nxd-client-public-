@@ -14,7 +14,7 @@ install everything runs locally and offline.
 Environment overrides: `NXD_PYTHON` (interpreter), `NXD_NPM_HOME` (cache dir),
 `NXD_PIP_SPEC` (install a local wheel path instead of PyPI).
 
-MCP config: `{ "mcpServers": { "nxd": { "command": "npx", "args": ["-y", "-p", "nxd", "nxd-mcp"] } } }`
+MCP config: `{ "mcpServers": { "nxd": { "command": "npx", "args": ["-y", "-p", "@nexplora/nxd", "nxd-mcp"] } } }`
 
 License: this launcher is Apache-2.0. The `nxd` Python package it installs
 contains a compiled core under the Nexplora Labs Proprietary License (see its
