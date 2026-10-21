@@ -4,7 +4,7 @@ NXD is an encrypted agent operating system from Nexplora Labs. It lets AI agents
 seal, shield, tokenize and hand off sensitive data so plaintext never has to
 leave the operator's machine.
 
-This repository contains only the **open-source thin client** (Apache-2.0):
+This repository contains only the ** thin client** (Apache-2.0):
 
 - `python/nxd/` – the CLI (`cli.py`), MCP server (`mcp_server.py`) and package entry (`__init__.py`)
 - `npm/` – the `@nexplora/nxd` launcher for Node
