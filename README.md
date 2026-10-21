@@ -1,4 +1,4 @@
-# NXD client (open source)
+# NXD client 
 
 NXD is an encrypted agent operating system from Nexplora Labs. It lets AI agents
 seal, shield, tokenize and hand off sensitive data so plaintext never has to
